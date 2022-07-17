@@ -7,39 +7,38 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0, "Canal Capital Colombia"
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:4 "PromarTV"
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8?checkedby:iptvcat.co
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:1, "TVPerúNoticias"
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:2, "Canal IPe Perú"
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:5, "Promar TV"
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:6, Reforma TV
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u
 #EXTINF:7, TVO
-http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u
 #EXTINF:8, Vepaco TV
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u
 #EXTINF:9, Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u
 #EXTINF:10, Solo Stand Up
-https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+https://paneltv.online:1936/8116/8116/playlist.m3u
 #EXTINF:11, Canal Once Del Zulia
-http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
+http://200.6.154.43:1935/canal11/live/playlist.m3u
 #EXTINF:12, Retro Plus TV Señal 2
-https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u
 #EXTINF:13, Catatumbo TV
-http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:14, Telearagua
-http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u
+http://190.205.43.236:8080/hls/nginx.m3u
 #EXTINF:15, VTV
-https://livestream.streamingconnect.com/hls/vtvweb.m3u8?PlaylistM3UCL
+https://livestream.streamingconnect.com/hls/vtvweb.m3u
 #EXTINF:16, Urban TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u
 #EXTINF:17, Rewind TV
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u
 #EXTINF:18, Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u
 #EXTINF:19, FORO TV Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:20, ADN40 Mexico
@@ -53,9 +52,9 @@ https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist
 #EXTINF:0, Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0, Telepacifico Colombia
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u
 #EXTINF:0, TRO Colombia
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u
 #EXTINF:0, Canal TRO Colombia
 https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:0, Exitosa Noticias Perú
