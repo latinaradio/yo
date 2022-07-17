@@ -44,11 +44,11 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:22 Turistik TV Mexico
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-#EXTINF:0,tvg-name="Noticias Caracol Colombia"
+#EXTINF:0,"Noticias Caracol Colombia"
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:0,tvg-name="Canal Capital Colombia",Canal Capital Colombia
+#EXTINF:0,"Canal Capital Colombia",Canal Capital Colombia
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:0,group-title="Int. América"
+#EXTINF:0,"Int. América"
 https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
