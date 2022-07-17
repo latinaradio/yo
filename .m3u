@@ -72,3 +72,26 @@ https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:1,Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:0, 7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:0,El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:1,Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:0,ETB Deportes
+https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/master.m3u8
+https://cdn044.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
+#EXTINF:0,Real Federación Española de Fútbol
+https://rfef-live3.flumotion.com/playlist.m3u8
+#EXTINF:0,Clan GEO
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:0,Clan GEO
+https://rtvelivestreamv3.akamaized.net/clan/clan_main_dvr.m3u8
+#EXTINF:0,Clan GEO
+https://rtvelivestreamv3.akamaized.net/rtvesec/clan_bkp_dvr.m3u8
+#EXTINF:0,Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:0,24h Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
