@@ -1,7 +1,7 @@
-#EXTINF:0, "Noticias Caracol"
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:4, "Televen"
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+#EXTINF:0, "Noticias Caracol"
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:3, "TeleSUR"
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0, "Canal Capital Colombia"
@@ -50,3 +50,25 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:0, "Int. América"
 https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+#EXTINF:0, Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0, Telepacifico Colombia
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:0, TRO Colombia
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:0, Canal TRO Colombia
+https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:0, Exitosa Noticias Perú
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:0, La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:0, Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1, Negocios TV
+https://live.gooru.live/negocios/live.m3u8
+#EXTINF:0, 7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:0, El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:1,Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
