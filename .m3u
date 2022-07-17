@@ -7,15 +7,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:11,Canal Once Del Zulia
-http://200.6.154.43:1935/canal11/live/playlist.m3u8
-#EXTINF:24,Canal Capital Colombia
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:0,Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0,Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:25,teleantioquia
-https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
 #EXTINF:5,Promar TV
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:0,Señal Colombia
@@ -23,15 +14,15 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:2,Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:4,Promar TV
-http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8?checkedby:iptvcat.com
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:6,Reforma TV
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:7,TVO
-http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
 #EXTINF:8,Vepaco TV
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
 #EXTINF:9,Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
 #EXTINF:10,Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:12,Retro Plus TV Señal 2
@@ -45,9 +36,9 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:16,Urban TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:17,Rewind TV
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:18,Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:19,FORO TV Mexico
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:20,ADN40 Mexico
@@ -76,7 +67,6 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:0,ETB Deportes
 https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/master.m3u8
-https://cdn044.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
 #EXTINF:0,Real Federación Española de Fútbol
 https://rfef-live3.flumotion.com/playlist.m3u8
 #EXTINF:0,Clan GEO
@@ -85,3 +75,12 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:23,Noticias Caracol
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:24,Canal Capital Colombia
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0,Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+http://200.6.154.43:1935/canal11/live/playlist.m3u8
+#EXTINF:0,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:25,teleantioquia
+https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
