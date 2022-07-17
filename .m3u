@@ -4,19 +4,26 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:3,TeleSUR Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:11 Canal Once Del Zulia
-#EXTINF:23,"Noticias Caracol"
+#EXTINF:0,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:11,Canal Once Del Zulia
+#EXTINF:23,Noticias Caracol
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:24,Canal Capital Colombia
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0,Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:25,teleantioquia
 https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+#EXTINF:5,Promar TV
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:0,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:2, Canal IPe Perú
+#EXTINF:2,Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:4 Promar TV
+#EXTINF:4,Promar TV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:6,Reforma TV
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
@@ -27,17 +34,17 @@ http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
 #EXTINF:9,Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:10,Solo Stand Up
-https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:12,Retro Plus TV Señal 2
-https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:13,Catatumbo TV
-http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
+http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
 #EXTINF:14,Telearagua
-http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
+http://190.205.43.236:8080/hls/nginx.m3u8
 #EXTINF:15,VTV
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:16,Urban TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:17,Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:18,Retro Plus TV
@@ -52,16 +59,14 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:0,Telepacifico Colombia
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:0, TRO Colombia
+#EXTINF:0,TRO Colombia
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:0, Canal TRO Colombia
+#EXTINF:0,Canal TRO Colombia
 https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:0, Exitosa Noticias Perú
+#EXTINF:0,Exitosa Noticias Perú
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:0, La 1
+#EXTINF:0,La 1
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:0, Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1, Negocios TV
 https://live.gooru.live/negocios/live.m3u8
 #EXTINF:0, 7NN Noticias
@@ -77,11 +82,5 @@ https://cdn044.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8
 https://rfef-live3.flumotion.com/playlist.m3u8
 #EXTINF:0,Clan GEO
 https://ztnr.rtve.es/ztnr/5466990.m3u8
-#EXTINF:0,Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0,Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:0,24h Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:5,Promar TV
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
