@@ -1,17 +1,20 @@
-#EXTINF:1, TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:4 "Televen TV Venezuela"
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
-#EXTINF:2, Canal IPe Perú
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:3, TeleSUR Venezuela
+#EXTINF:3, "TeleSUR Venezuela"
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:4 Televen TV Venezuela
-https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
-#EXTINF:4 Promar TV
+#EXTINF:4 "Promar TV"
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8?checkedby:iptvcat.co
-#EXTINF:5 Promar TV
+
+#EXTINF:1, "TV Perú Noticias"
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:2, "Canal IPe Perú"
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:5 "Promar TV"
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:6 Reforma TV
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
