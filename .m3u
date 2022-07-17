@@ -7,8 +7,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:11,Canal Once Del Zulia
-#EXTINF:23,Noticias Caracol
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+http://200.6.154.43:1935/canal11/live/playlist.m3u8
 #EXTINF:24,Canal Capital Colombia
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:0,Pequeradio TV
@@ -84,3 +83,5 @@ https://rfef-live3.flumotion.com/playlist.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:0,24h Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:23,Noticias Caracol
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
