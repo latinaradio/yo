@@ -94,21 +94,45 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live.m3u8
 #EXTINF:21,skitv
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:21,Misouri
-https://dl.dropbox.com/s/nvuu5b0alp7uw3x/Three.billboards.outside.ebbing.missouri.2017.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:21,ant man
-https://dl.dropbox.com/s/s0ij5jaf0nh2tp8/The.hero.2017.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:21,your name
-https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:21,The Evil Within (2019)
-http://tvpremiumhd.club/lista-gratuita/185525/on/live.php?id=archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
-#EXTINF:21,angri birt
-http://tvpremiumhd.club/lista-gratuita/185525/on/live.php?id=ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
-#EXTINF:21,la purga
-http://tvpremiumhd.club/lista-gratuita/185525/on/live.php?id=archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
-#EXTINF:21,Childs Play 2
-http://tvpremiumhd.club/lista-gratuita/185525/on/live.php?id=ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-#EXTINF:21,
-#EXTINF:21,
-#EXTINF:21,
-#EXTINF:21,
+#EXTINF:0,Canal Antigua Guatemala
+https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
+#EXTINF:0,TeleAmazonas Ecuador
+https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
+#EXTINF:0,Bolivia 7.2 TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:0,Red Pat Bolivia
+https://master.tucableip.com/pat/playlist.m3u8
+#EXTINF:0,Telemicro República Dominicana
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+#EXTINF:0,Nicavisión TV Nicaragua
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+#EXTINF:0,WTV Nicaragua
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:0,TeleDiario Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,Nex TV Panamá
+https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
+#EXTINF:0,WIPR TV Puerto Rico
+https://streamwipr.pr/hls/wipr/index.m3u8
+#EXTINF:0,Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0,Rede Massa Brasil
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
+#EXTINF:0,Trinidad and Tobago Television
+https://cdn005.tegotv.com/liveabr/Live_TV~TTT~TTT~Foreign/playlist_dvr.m3u8
+#EXTINF:0,Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF:0,Best Cable Sports Perú
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:0,Activa TV España
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:0,La Urban TV España
+https://urbanrevolution.es:8443/live/TV/master.m3u8
+#EXTINF:0,EuroLatina TV España
+https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
+#EXTINF:0,Spektra TV España
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:0,30A Music USA EN
+https://30a-tv.com/music.m3u8
+#EXTINF:0,Vintage Music TV EN
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
