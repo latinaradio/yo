@@ -106,7 +106,19 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:21,canal 10 Arg
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:21,canal i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:21,ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:21,WowTv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:21,Hb Tv
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:21,NotiVision Mex
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:21,MultiMedios Mex
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:21,MultiVision Arg
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 #EXTINF:21,america sport
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live.m3u8
 #EXTINF:21,skitv
