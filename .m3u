@@ -64,8 +64,6 @@ http://174.138.118.252/live/trece.m3u8
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:0,nube
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-#EXTINF:21,Canal Once Mexico
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:21,anime zone
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:21,atn tv cucuta
@@ -76,18 +74,40 @@ https://movil.ejeserver.com/live/verteve.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:21,cali tv
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:21,canal 26
+#EXTINF:21,canal 26 arg
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:21,canal capital colombia
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:21,caracol ahora
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:21,Canal Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:21,canal yopal colombia
 http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 #EXTINF:21,canal iberoamericano 
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
 #EXTINF:21,barranquillatv
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:21,Tv san luis
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+#EXTINF:21,paka paka comiquita
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:21,telemix
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+#EXTINF:21,UNAMTV
+http://192.100.186.53:8090/hls/live.stream.m3u8
+#EXTINF:21,NET TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,MAX TV Arg
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,Azares tv Arg
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,canal 10 Arg
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,teletuya
+https://vtv-cdn.myplaytv.com/lateletuya/lateletuya/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+#EXTINF:21,canal capital colombia
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:21,caracol ahora
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:21,pluto news
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8
 #EXTINF:21,america sport
