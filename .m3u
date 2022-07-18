@@ -1,9 +1,7 @@
-#EXTINF:4,RadioLatina San Josecito1
-https://freeuk27.listen2myradio.com/live.mp3?typeportmount=s2_7146_stream_642520705
-#EXTINF:4,RadioLatina San Josecito2
-http://stream.zeno.fm/7104qw5vfkhvv
 #EXTINF:4,Televen TV Venezuela
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+#EXTINF:4,RadioLatina San Josecito
+http://stream.zeno.fm/7104qw5vfkhvv
 #EXTINF:1,TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:21,telecaribe
@@ -74,6 +72,9 @@ http://azxtv.com/hls/stream.m3u8
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:21,atv soacha colombia
 https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:0,Nicavisión TV Nicaragua
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+#EXTINF:0,WTV Nicaragua
 #EXTINF:21,cable noticias colombia
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:21,cali tv
@@ -104,16 +105,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UC
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:21,canal 10 Arg
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:21,teletuya
-https://vtv-cdn.myplaytv.com/lateletuya/lateletuya/playlist.m3u8?PlaylistM3UCL
 #EXTINF:21,canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
-#EXTINF:21,canal capital colombia
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:21,caracol ahora
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:21,pluto news
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8
 #EXTINF:21,america sport
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live.m3u8
 #EXTINF:21,skitv
@@ -128,9 +121,6 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 https://master.tucableip.com/pat/playlist.m3u8
 #EXTINF:0,Telemicro República Dominicana
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:0,Nicavisión TV Nicaragua
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
-#EXTINF:0,WTV Nicaragua
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:0,TeleDiario Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -139,24 +129,5 @@ https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:0,WIPR TV Puerto Rico
 https://streamwipr.pr/hls/wipr/index.m3u8
 #EXTINF:0,Locomotion TV
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0,Rede Massa Brasil
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
-#EXTINF:0,Trinidad and Tobago Television
-https://cdn005.tegotv.com/liveabr/Live_TV~TTT~TTT~Foreign/playlist_dvr.m3u8
-#EXTINF:0,Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:0,Best Cable Sports Perú
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:0,Activa TV España
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:0,La Urban TV España
-https://urbanrevolution.es:8443/live/TV/master.m3u8
-#EXTINF:0,EuroLatina TV España
-https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
-#EXTINF:0,Spektra TV España
-https://cloudvideo.servers10.com:8081/8136/index.m3u8
-#EXTINF:0,30A Music USA EN
-https://30a-tv.com/music.m3u8
-#EXTINF:0,Vintage Music TV EN
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
