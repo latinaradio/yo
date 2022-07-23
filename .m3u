@@ -1,7 +1,7 @@
 #EXTINF:4,Televen TV Venezuela
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
-#EXTINF:4,RadioLatina San Josecito
-https://freeuk27.listen2myradio.com/live.mp3?typeportmount=s2_7146_stream_642520705
+#EXTINF:21,canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:1,TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:21,telecaribe
@@ -12,6 +12,22 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:23,"Noticias Caracol"
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:24,Canal Capital Colombia
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:25,teleantioquia
+https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+#EXTINF:0,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0, Telepacifico Colombia
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:0, TRO Colombia
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:0, Canal TRO Colombia
+https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:0, La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:21,latinokids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:11,Canal Once Del Zulia
@@ -38,11 +54,11 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0,TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:0,retroplus3 music
+#EXTINF:0,retroPeliculas
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:0,recuerdos music
+#EXTINF:0,retro ingles
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
-#EXTINF:0,retroplus2 pelimusic
+#EXTINF:0,retroplus2 español
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:0,Portal Foxmix music
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
@@ -105,8 +121,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UC
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:21,canal 10 Arg
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:21,canal i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:21,ExtremaTv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:21,WowTv
@@ -143,3 +157,25 @@ https://streamwipr.pr/hls/wipr/index.m3u8
 #EXTINF:0,Locomotion TV
 #EXTINF:0,Best Cable Sports Perú
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:0,Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0,Rede Massa Brasil
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
+#EXTINF:0,Trinidad and Tobago Television
+https://cdn005.tegotv.com/liveabr/Live_TV~TTT~TTT~Foreign/playlist_dvr.m3u8
+#EXTINF:0,Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF:0,Best Cable Sports Perú
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:0,Activa TV España
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:0,La Urban TV España
+https://urbanrevolution.es:8443/live/TV/master.m3u8
+#EXTINF:0,EuroLatina TV España
+https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
+#EXTINF:0,Spektra TV España
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+#EXTINF:0,30A Music USA EN
+https://30a-tv.com/music.m3u8
+#EXTINF:0,Vintage Music TV EN
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
