@@ -12,22 +12,6 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0,Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:23,"Noticias Caracol"
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:24,Canal Capital Colombia
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:25,teleantioquia
-https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-#EXTINF:0,Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0, Telepacifico Colombia
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:0, TRO Colombia
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:0, Canal TRO Colombia
-https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:0, La 1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:21,latinokids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:11,Canal Once Del Zulia
@@ -154,28 +138,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:0,WIPR TV Puerto Rico
 https://streamwipr.pr/hls/wipr/index.m3u8
-#EXTINF:0,Locomotion TV
 #EXTINF:0,Best Cable Sports Perú
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:0,Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0,Rede Massa Brasil
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
-#EXTINF:0,Trinidad and Tobago Television
-https://cdn005.tegotv.com/liveabr/Live_TV~TTT~TTT~Foreign/playlist_dvr.m3u8
-#EXTINF:0,Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:0,Best Cable Sports Perú
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:0,Activa TV España
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:0,La Urban TV España
-https://urbanrevolution.es:8443/live/TV/master.m3u8
-#EXTINF:0,EuroLatina TV España
-https://live.yowi.tv/f8c87cd531ccd9f6b6ba/master.m3u8
-#EXTINF:0,Spektra TV España
-https://cloudvideo.servers10.com:8081/8136/index.m3u8
-#EXTINF:0,30A Music USA EN
-https://30a-tv.com/music.m3u8
-#EXTINF:0,Vintage Music TV EN
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
